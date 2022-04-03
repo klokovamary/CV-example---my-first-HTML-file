@@ -1,4 +1,4 @@
 # CV example - my first HTML file
 
-Example:
+Link:
 https://github.com/klokovamary/CV-example---my-first-HTML-file.git
